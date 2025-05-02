@@ -39,10 +39,6 @@ The dataset is compiled in Excel format and includes the following attributes:
 - **Microsoft Excel**: For data cleaning, pivot analysis, and dashboard design
 - **Charts**: Bar charts, pie charts, line graphs, and maps for visual storytelling
 
-## 📷 Dashboard Preview
-
-*A screenshot or live link can be added here (optional).*
-
 ## 📁 Repository Contents
 
 ```
@@ -66,4 +62,4 @@ The dataset is compiled in Excel format and includes the following attributes:
 
 ## 📌 Author
 
-Created by [Your Name] – B.Tech CSE Student with a focus on data visualization and analytics.
+Created by [PRIYANSHU SHARMA] – B.Tech CSE Student with a focus on data visualization and analytics.
